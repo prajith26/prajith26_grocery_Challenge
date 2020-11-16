@@ -1,0 +1,85 @@
+{
+"grocery":[
+    {
+        "SerialNumber":"1",
+        "Name": "Hand Wash",
+        "Quantity": "1",
+        "Unit":"L",
+        "Department":"Household",
+        "Notes": "Personal Care"
+    },
+    {
+        "SerialNumber":"2",
+        "Name": "Tomato",
+        "Quantity": "5",
+        "Unit":"Kg",
+        "Department":"Food",
+        "Notes": "Vegetables"
+    },
+    {
+        "SerialNumber":"3",
+        "Name": "Onion",
+        "Quantity": "5",
+        "Unit":"Kg",
+        "Department":"Food",
+        "Notes": "Vegetables"
+    },
+    {
+        "SerialNumber":"4",
+        "Name": "Apple",
+        "Quantity": "2",
+        "Unit":"Kg",
+        "Department":"Food",
+        "Notes": "Fruits"
+    },
+    {
+        "SerialNumber":"5",
+        "Name": "Rice",
+        "Quantity": "5",
+        "Unit":"Kg",
+        "Department":"Food",
+        "Notes": ""
+    },
+    {
+        "SerialNumber":"6",
+        "Name": "Air Freshner",
+        "Quantity": "1",
+        "Unit":"L",
+        "Department":"Household",
+        "Notes": "Cleaning Stuff"
+    },
+    {
+        "SerialNumber":"7",
+        "Name": "Potato",
+        "Quantity": "3",
+        "Unit":"Kg",
+        "Department":"Food",
+        "Notes": "Vegetables"
+    },
+    {
+        "SerialNumber":"8",
+        "Name": "Detergent",
+        "Quantity": "250",
+        "Unit":"ml",
+        "Department":"Household",
+        "Notes": "Cleaning Stuff"
+    },
+    {
+        "SerialNumber":"9",
+        "Name": "Pen",
+        "Quantity": "1",
+        "Unit":"nos",
+        "Department":"Household",
+        "Notes": "Office Supplies"
+    },
+    {
+        "SerialNumber":"10",
+        "Name": "Notebook",
+        "Quantity": "3",
+        "Unit":"nos",
+        "Department":"Household",
+        "Notes": "Office Supplies"
+    }
+]
+
+}   

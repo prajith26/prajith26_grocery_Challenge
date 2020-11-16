@@ -1,0 +1,28 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+.navbar .h1{
+    text-align: center;
+    /* margin-left: 14em; */
+    font-size: 35px;
+    font-family: 'Kaushan Script', cursive;
+    letter-spacing: 3px;
+}
+
+body{
+    background-image: url(./Images/supermarketcart_main.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-inner {
+    background:transparent !important;
+}
+
+ .table{
+    background-color: rgba(146, 145, 145, 0.5);
+    color: black;
+    box-shadow: black;
+} 
